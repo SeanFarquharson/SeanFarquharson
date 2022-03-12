@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanFarquharson
 - 👀 I’m interested in ... Data Products
-- 🌱 I’m currently learning ... Streamlit 
+- 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... Sports Projects
 - 📫 How to reach me ... sfarqu2@uwo.ca
 
